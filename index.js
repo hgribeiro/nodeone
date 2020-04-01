@@ -11,5 +11,12 @@ const empresa = {
 
 // Now I will print this obj on the cosole
 
-console.log (`O nome da empresa é ${empresa.nome}, a cor é ${empresa.cor}!`);
+console.log (`O nome da empresa é ${empresa.nome}, a cor é ${empresa.cor} e o endereço é ${empresa.endereco.rua}, número ${empresa.endereco.numero}!`);
+
+
+
+
+
+
+
 
