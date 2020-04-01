@@ -1,2 +1,4 @@
-# nodeone
-This piece of code has the simple goal train some fundamentals things about JS.
+# NodeJS - One
+ -> This piece of code has the simple goal train some fundamentals things about JS.
+ 
+#node
